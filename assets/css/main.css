@@ -3882,7 +3882,7 @@ input, select, textarea {
 				padding-top: 44px !important;
 			}
 
-			#titleBar {
+			/* #titleBar {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
@@ -3900,9 +3900,9 @@ input, select, textarea {
 				z-index: 10001;
 				background: #272833;
 				box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
-			}
+			} */
 
-				#titleBar .title {
+				/* #titleBar .title {
 					color: #ffffff;
 					display: block;
 					font-weight: 300;
@@ -3914,9 +3914,9 @@ input, select, textarea {
 					#titleBar .title a {
 						color: inherit;
 						border: 0;
-					}
+					} */
 
-				#titleBar .toggle {
+				/* #titleBar .toggle {
 					text-decoration: none;
 					height: 60px;
 					left: 0;
@@ -3925,9 +3925,9 @@ input, select, textarea {
 					width: 90px;
 					outline: 0;
 					border: 0;
-				}
+				} */
 
-					#titleBar .toggle:before {
+					/* #titleBar .toggle:before {
 						-moz-osx-font-smoothing: grayscale;
 						-webkit-font-smoothing: antialiased;
 						display: inline-block;
@@ -3938,9 +3938,9 @@ input, select, textarea {
 						text-transform: none !important;
 						font-family: 'Font Awesome 5 Free';
 						font-weight: 900;
-					}
+					} */
 
-					#titleBar .toggle:before {
+					/* #titleBar .toggle:before {
 						background: #864809;
 						color: rgba(255, 255, 255, 0.5);
 						content: '\f0c9';
@@ -3953,7 +3953,7 @@ input, select, textarea {
 						text-align: center;
 						top: 0;
 						width: 54px;
-					}
+					} */
 
 			#navPanel {
 				-moz-backface-visibility: hidden;
